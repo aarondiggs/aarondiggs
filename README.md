@@ -4,7 +4,7 @@
 
 - [Building a SIEM Stack]()
 
-<h2>🎫 Certifications</h2>
+<h2>🎫 Certifications:</h2>
 
 - [Google Cybersecurity](https://github.com/aarondiggs/Google-Cybersecurity)
 
