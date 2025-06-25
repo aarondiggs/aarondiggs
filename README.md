@@ -6,7 +6,7 @@
 
 <h2>🎫 Certifications:</h2>
 
-- [Google Cybersecurity](https://github.com/aarondiggs/Google-Cybersecurity)
+- [Google Cybersecurity Professional](https://github.com/aarondiggs/Google-Cybersecurity)
 
 <h2>Connect with me:</h2>
 
